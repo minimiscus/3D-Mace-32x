@@ -7,3 +7,5 @@
 - 32x Mace texture by @eachkhaiho, @dmgaming and @Jamiscus
 
 - 32x Heavy core texture by @Jamiscus, @stirdrem and @eachkhaiho.
+
+This pack uses the CorePerspectiveModels shader by ShockMicro for the 2D Inventory Texture (https://github.com/ShockMicro/CorePerspectiveModels)
