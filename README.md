@@ -10,3 +10,4 @@
 
 - 32x Heavy core texture by @Jamiscus, @stirdrem and @eachkhaiho.
 
+This project also uses the [CorePerspectiveModels](https://github.com/ShockMicro/CorePerspectiveModels) shader for the 2D Inventory Texture.
