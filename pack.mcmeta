@@ -3,7 +3,7 @@
     "pack_format": 29,
     "description": "By §3@DMgaming§f, §b@minimiscus§f and §5@Jamiscus§f.",
 	"supported_formats": {
-      "min_inclusive": 29,
+      "min_inclusive": 44,
       "max_inclusive": 100
     }
   }
