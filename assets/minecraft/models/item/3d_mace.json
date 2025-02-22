@@ -2,7 +2,7 @@
 	"credit": "Created by minimiscus",
 	"textures": {
 		"0": "item/mace_rod",
-		"1": "item/mace_head"
+		"1": "block/heavy_core"
 	},
 	"elements": [
 		{
