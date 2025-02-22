@@ -9,7 +9,6 @@
                     "fixed",
                     "ground"
                 ],
-                "": "",
                 "model": {
                     "type": "minecraft:model",
                     "model": "item/mace"
