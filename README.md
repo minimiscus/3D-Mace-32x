@@ -1,3 +1,5 @@
+*For archived versions you can check the branches.*
+
 ## Credits
 
 - Original vanilla 3D Mace by @dmgaming.
